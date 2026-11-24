@@ -1,7 +1,0 @@
-pyproject.toml
-src/hasar/__init__.py
-src/hasar.egg-info/PKG-INFO
-src/hasar.egg-info/SOURCES.txt
-src/hasar.egg-info/dependency_links.txt
-src/hasar.egg-info/top_level.txt
-tests/test_env_check.py
